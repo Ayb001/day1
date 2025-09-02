@@ -10,6 +10,6 @@ int main()
     scanf("%d",&b);
     printf("entrer c:");
     scanf("%d",&c);
-    moy=(pow(a,2)+pow(b,3)+pow(c,5));
+    moy=(pow(a,2)+pow(b,3)+pow(c,5))/3;
     printf("%d",moy);
 }
