@@ -10,6 +10,6 @@ int main()
     scanf("%d",&b);
     printf("entrer c:");
     scanf("%d",&c);
-    moy=(pow(a,2)+pow(b,3)+pow(c,5))/3;
-    printf("%d",moy);
+    moy=((a*2)+(b*3)+(c*5))/(2+3+5);
+    printf("La moyenne ponderee est %d",moy);
 }
