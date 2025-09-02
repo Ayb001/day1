@@ -6,5 +6,5 @@ int main()
     printf("enter la distance en KM:");
     scanf("%f",&Km);
     Yards=Km*1093.61;
-    printf("%f",Yards);
+    printf("la distance en yards est:%f",Yards);
 }
