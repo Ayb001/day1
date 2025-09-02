@@ -17,6 +17,7 @@ int main()
     printf("enter adress email:");
     scanf("%s",adresse_email);
     printf("\n\n");
+
     printf("last name: %s\n",nom);
     printf("first name: %s\n",prenom);
     printf("age: %d\n",age);
