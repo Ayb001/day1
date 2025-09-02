@@ -27,14 +27,14 @@ int main()
     str2[j]='\0';
     i--;
     j--;
-    printf("binare\n");
+    printf("binare:");
     while(i>=0)
     {
         printf("%c",str1[i]);
         i--;
     }
     printf("\n");
-    printf("hexa decimal\n");
+    printf("hexa decimal:");
     while(j>=0)
     {
         printf("%c",str2[j]);
