@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
 int base, exposant, i;
 long long resultat = 1;
