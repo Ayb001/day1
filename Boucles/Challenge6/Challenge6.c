@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
 int n, i, val = 2;
 printf("Entrer un nombre : ");
