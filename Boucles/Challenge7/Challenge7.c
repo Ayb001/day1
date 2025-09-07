@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
 int n, inverse = 0;
 printf("Entrer un entier : ");
